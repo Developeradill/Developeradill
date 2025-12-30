@@ -36,6 +36,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Adil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Developeradill&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developeradill&layout=compact&theme=radical)
-
+![GitHub Followers](https://img.shields.io/github/followers/Developeradill?style=for-the-badge)
+![GitHub Repos](https://img.shields.io/github/repo-count/Developeradill?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/Developeradill?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/Developeradill?style=for-the-badge)
