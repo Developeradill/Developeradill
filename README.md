@@ -36,7 +36,12 @@
 ---
 
 ## 📊 GitHub Stats
+
+### Profile
+![Profile Views](https://komarev.com/ghpvc/?username=Developeradill&color=blue)  
 ![GitHub Followers](https://img.shields.io/github/followers/Developeradill?style=for-the-badge)
+
+### Repositories
 ![GitHub Repos](https://img.shields.io/github/repo-count/Developeradill?style=for-the-badge)
 ![GitHub Stars](https://img.shields.io/github/stars/Developeradill?style=for-the-badge)
 ![GitHub License](https://img.shields.io/github/license/Developeradill?style=for-the-badge)
